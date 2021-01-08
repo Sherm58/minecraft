@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " B ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "B": {
+      "tag": "charm:bookshelves"
+    }
+  },
+  "result": {
+    "item": "minecraft:lectern"
+  },
+  "conditions": [
+    {
+      "type": "charm:module_enabled",
+      "module": "charm:variant_bookshelves"
+    }
+  ]
+}

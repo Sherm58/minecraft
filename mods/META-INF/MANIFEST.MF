@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: charm
+MixinConfigs: charm.mixins.json
+Implementation-Version: 2.1.1
+Specification-Vendor: svenhjol
+Specification-Title: charm
+Implementation-Timestamp: 2020-11-14T03:21:32+0000
+Specification-Version: 1
+Implementation-Vendor: svenhjol
+

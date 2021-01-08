@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III", "ITI", "III"
+  ],
+  "key": {
+    "I": {"item": "minecraft:iron_nugget"},
+    "T": {"item": "minecraft:redstone_torch"}
+  },
+  "result": {
+    "item": "charm:redstone_lantern"
+  },
+  "conditions": [
+    {
+      "type": "charm:module_enabled",
+      "module": "charm:redstone_lanterns"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:woodcutting",
+  "ingredient": {
+    "item": "minecraft:birch_planks"
+  },
+  "result": "charm:birch_ladder",
+  "count": 4,
+  "conditions": [
+    {
+      "type": "charm:module_enabled",
+      "module": "charm:variant_ladders"
+    }
+  ]
+}

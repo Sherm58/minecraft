@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bricks"
+    },
+    "X": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "charm:kiln"
+  },
+  "conditions": [
+    {
+      "type": "charm:module_enabled",
+      "module": "charm:kilns"
+    }
+  ]
+}

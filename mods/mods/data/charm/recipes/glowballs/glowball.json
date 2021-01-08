@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "charm:glowball",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "charm:module_enabled",
+      "module": "charm:glowballs"
+    }
+  ]
+}
