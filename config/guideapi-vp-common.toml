@@ -7,7 +7,3 @@
 	#Enables extra information being printed to the console.
 	enableLogging = true
 
-	#If the player should spawn with this book
-	[common.spawnBook]
-		vampirism-guidebook = true
-
