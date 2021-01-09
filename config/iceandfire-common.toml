@@ -5,7 +5,7 @@
 	"Amphithere Flight Speed" = 1.75
 	#how long(in ticks) a siren has to wait after failing to lure in a player
 	#Range: 100 ~ 24000
-	"Siren Time Between Songs" = 2000
+	"Siren Time Between Songs" = 3000
 	#Troll attack strength
 	#Range: 1.0 ~ 10000.0
 	"Troll Attack Strength" = 10.0

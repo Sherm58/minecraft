@@ -3,7 +3,7 @@
 [player_death]
 	#Experience loss on death (%) [0..100|default:0]
 	#Range: 0 ~ 100
-	xp_loss = 3
+	xp_loss = 0
 	#Whether to handle player experience [false/true|default:true]
 	handle_player_xp = true
 	#Allows players with bad alignment and the perk tomb raider to steal items on abandoned graves [false/true|default:false]
